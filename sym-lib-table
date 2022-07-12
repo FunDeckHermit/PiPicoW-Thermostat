@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "_Recom")(type "KiCad")(uri "${KIPRJMOD}/libraries/ROF-78E3.3-0.5SMD-R.kicad_sym")(options "")(descr ""))
+  (lib (name "_TE")(type "KiCad")(uri "${KIPRJMOD}/libraries/1-2834016-2.kicad_sym")(options "")(descr ""))
+)
